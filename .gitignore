@@ -1,0 +1,43 @@
+.build/
+dist/
+.venv/
+__pycache__/
+.pytest_cache/
+.coverage
+.ruff_cache/
+.DS_Store
+
+# Private design mockup
+Python Calculator.pdf
+
+# Swift / Xcode
+.swiftpm/
+xcuserdata/
+*.xcodeproj/
+DerivedData/
+
+# Python
+*.pyc
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Local environment and editors
+.env
+.env.*
+.idea/
+.vscode/
+*.swp
+
+# Xcode / Swift (from the repository's original .gitignore)
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+timeline.xctimeline
+playground.xcworkspace
+Carthage/Build/
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output

@@ -1,0 +1,5 @@
+# Tools for developing Python Calculator (tests and linting).
+-r requirements.txt
+pytest==8.3.*
+pytest-cov==6.*
+ruff>=0.6

@@ -1,0 +1,7 @@
+# Python Calculator: Python packages used *inside* your scripts.
+#
+# The app itself only needs Python 3.9+ and its standard library.
+# Everything below is optional. Install it into the interpreter the app uses
+# (see "Optional: NumPy and other packages" in README.md).
+
+numpy>=1.24          # available as `np` in every script
